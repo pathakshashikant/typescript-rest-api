@@ -1,0 +1,26 @@
+{
+  "name": "nodejsapiwithtypescript",
+  "version": "1.0.0",
+  "description": "Nodejs, ExpressJS, RestAPI, Typescript, Zod",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pathakshashikant/typescript-restapi.git"
+  },
+  "keywords": [
+    "Nodejs",
+    "ExpressJS",
+    "RestAPI",
+    "Typescript",
+    "Zod"
+  ],
+  "author": "Shashikant Pathak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pathakshashikant/typescript-restapi/issues"
+  },
+  "homepage": "https://github.com/pathakshashikant/typescript-restapi#readme"
+}
